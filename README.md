@@ -1,8 +1,3 @@
----
-layout: page
-title: Lazarus Corner of the World
-permalink: /
----
 ![Lazarus Long](images/logo.png)
 # Lazarus Corner of the World
 
