@@ -15,6 +15,6 @@ title: Lazarus Corner of the World
 
 - [**RPM builds for `molly-guard`**](rpm-builds-for-molly-guard) are _current_ (version **0.4.5**+) [RPMs](https://www.wikipedia.org/wiki/RPM_Package_Manager) for the [Debian](https://www.debian.org) based linux command line utility [`molly-guard`](https://anonscm.debian.org/cgit/collab-maint/molly-guard.git/)
 
-- [**helm**](helm) is intended to maintain assorted [Helm](https://helm.sh) charts (currently the library chart `lib`)
+- [**helm**](helm) is intended to maintain [Helm](https://helm.sh) charts (currently the library chart `lib`)
 
 - [**misc**](misc) is intended to be used for assorted miscellanea stuff
