@@ -1,1 +1,10 @@
+domain: lazarusllong.github.io
+url: https://lazarusllong.github.io
+baseurl: ""
+
 theme: jekyll-theme-slate
+
+timezone: Europe/Lisbon
+lang: en
+
+markdown: GFM
