@@ -2,7 +2,9 @@ domain: lazarusllong.github.io
 url: https://lazarusllong.github.io
 baseurl: ""
 
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate
+plugins:
+- jekyll-remote-theme
 
 timezone: Europe/Lisbon
 lang: en
