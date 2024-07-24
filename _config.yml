@@ -3,8 +3,6 @@ url: https://lazarusllong.github.io
 baseurl: ""
 
 remote_theme: pages-themes/slate
-plugins:
-- jekyll-remote-theme
 
 timezone: Europe/Lisbon
 lang: en
